@@ -6,9 +6,9 @@
 </blockquote>
 <ul>
     <li>
-        <h4>
+        <h5>
             Step 1 :
-        </h4>
+        </h5>
         <ul>
             Check out the web application.<br>
             <img src="./img/WebApplication.png" alt="WebApplication" width="300">  
