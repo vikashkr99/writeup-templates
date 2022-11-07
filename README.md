@@ -6,9 +6,7 @@
 </blockquote>
 <ul>
     <li>
-        <h5>
-            Step 1 :
-        </h5>
+        <strong>Step 1 :</strong>
         <ul>
             Check out the web application.<br>
             <img src="./img/WebApplication.png" alt="WebApplication" width="300">  
