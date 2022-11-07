@@ -9,11 +9,11 @@
         <strong>Step 1 :</strong>
         <ul>
             Check out the web application.<br>
-            <img src="./img/WebApplication.png" alt="WebApplication" width="300">  
+            <img src="./img/WebApplication.png" alt="WebApplication" width="400">  
         </ul>
     </li>
     <li>
-        <h4>Step 2 :</h4>
+        <strong>Step 2 :</strong>
         <ul>
             Search for `PUG ssti` on google and found exactly what i needed.
             You can find it <a href="https://gist.github.com/Jasemalsadi/2862619f21453e0a6ba2462f9613b49f">here</a>
