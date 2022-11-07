@@ -48,9 +48,9 @@
     <li>
         <strong>Step 6 :</strong>
         <ul>
-            For those who want to root the machine can do that by using DirtyPipe exploit. I have included the steps for that 
+            For those who want to root the machine can do that by using <code>DirtyPipe</code> exploit. I have included the steps for that 
             in my writeup for epoch which is also available on my github so i will not include that here but you can check it out
-            using <a href="https://github.com/vikashkr99/writeup-Epoch">this</a> link here.
+            using <a href="https://github.com/vikashkr99/writeup-Epoch">this</a> link.
         </ul>
     </li>
     <h1>Solved 😁</h1>
