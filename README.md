@@ -23,7 +23,7 @@
         <strong>Step 3 :</strong>
         <ul>
             Modify the payload.
-            <ol style="list-style: ;number">
+            <ol style="list-style: number;">
                 <li>Copy the payload to <a href="https://gchq.github.io/CyberChef/">CyberChef</a>.</li>
                 <li>Select <code>From base64</code> from Operations and drag it to Recipe.</li>
                 <li>Put in your IP and PORT number and encode the payload back to base64.</li>
