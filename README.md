@@ -11,14 +11,14 @@
             Check out the web application.<br>
             <img src="./img/WebApplication.png" alt="WebApplication" width="400">  
         </ul>
-    </li>
+    </li><br>
     <li>
         <strong>Step 2 :</strong>
         <ul>
             Searched for <code>PUG SSTI</code> on google and found exactly what i needed.
             You can find it <a href="https://gist.github.com/Jasemalsadi/2862619f21453e0a6ba2462f9613b49f">here</a>
         </ul>
-    </li>
+    </li><br>
     <li>
         <strong>Step 3 :</strong>
         <ul>
@@ -30,13 +30,13 @@
                 <li>Use this base64 as your payload</li>
             </ol>
         </ul>
-    </li>
+    </li><br>
     <li>
         <strong>Step 4 :</strong>
         <ul>
             Start a netcat listener.
         </ul>
-    </li>
+    </li><br>
     <li>
         <strong>Step 5 :</strong>
         <ul>
@@ -44,7 +44,7 @@
             <img src="./img/shell.png" alt="shell" width="500"><br>
             Just do <code>ls -la</code> and you will get your flag.
         </ul>
-    </li>
+    </li><br>
     <li>
         <strong>Step 6 :</strong>
         <ul>
