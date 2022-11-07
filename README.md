@@ -15,7 +15,7 @@
     <li>
         <strong>Step 2 :</strong>
         <ul>
-            Search for `PUG ssti` on google and found exactly what i needed.
+            Searched for <code>PUG SSTI</code> on google and found exactly what i needed.
             You can find it <a href="https://gist.github.com/Jasemalsadi/2862619f21453e0a6ba2462f9613b49f">here</a>
         </ul>
     </li>
@@ -23,7 +23,7 @@
         <strong>Step 3 :</strong>
         <ul>
             Modify the payload.
-            <ol>
+            <ol style="list-style: ;number">
                 <li>Copy the payload to <a href="https://gchq.github.io/CyberChef/">CyberChef</a>.</li>
                 <li>Select <code>From base64</code> from Operations and drag it to Recipe.</li>
                 <li>Put in your IP and PORT number and encode the payload back to base64.</li>
