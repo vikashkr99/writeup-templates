@@ -22,7 +22,7 @@
     <li>
         <strong>Step 3 :</strong>
         <ul>
-            Modify the payload.
+            Modify the #payload part from the overall payload.
             <ol type="1">
                 <li>Copy the payload to <a href="https://gchq.github.io/CyberChef/">CyberChef</a>.</li>
                 <li>Select <code>From base64</code> from Operations and drag it to Recipe.</li>
